@@ -1,3 +1,3 @@
-function (){
+function Payment (){
     this.id;
 }
